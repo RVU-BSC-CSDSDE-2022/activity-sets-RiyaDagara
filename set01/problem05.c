@@ -54,7 +54,7 @@ int compare(int a, int b, int c)
 
 void output(int a, int b, int c, int largest)
 {
-  printf("the largest number is: %f",&largest);
+  printf("the largest number is: %d",largest);
 }
 /*int main(void)
 {
